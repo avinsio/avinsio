@@ -1,9 +1,7 @@
 ```python
-about = {
-    "focus": [
-        "Artificial Intelligence",
-        "Machine Learning",
-        "Data Science",
-    ]
+focus = {
+    "ai",
+    "machine-learning",
+    "data-science",
 }
 ```
