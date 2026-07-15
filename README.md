@@ -1,7 +1,7 @@
 ```python
 focus = (
-    "Artificial Intelligence",
-    "Machine Learning",
-    "Data Science",
+    "Artificial Intelligence"
+    "Machine Learning"
+    "Data Science"
 )
 ```
