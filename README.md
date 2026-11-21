@@ -1,5 +1,7 @@
-# Hi there! <img src="./waving-gif.gif" height="40px" align="upper" alt="waving hand"> I'm **Avinash**.
+# Hi there! <img src="./waving-gif.gif" height="40" align="middle" alt="Waving hand"> I’m Avinash.
 
 I like mathematics, working with data, and building things with ML.
 
-![](https://komarev.com/ghpvc/?username=avinsio&color=green)
+[More about me and what I do →](https://avinsio.vercel.app/)
+
+![Profile views](https://komarev.com/ghpvc/?username=avinsio&color=green)
